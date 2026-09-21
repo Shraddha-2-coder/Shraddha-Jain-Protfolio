@@ -41,7 +41,15 @@ interested in building practical AI/ML solutions for real-world problems.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
+<p>📧 <strong>Email:</strong>
+<a href="mailto:missruby2503@gmail.com">missruby2503@gmail.com</a>
+</p>
 
+<p>🐙 <strong>GitHub:</strong>
+<a href="https://github.com/Shraddha-2-coder" target="_blank">
+@Shraddha-2-coder
+</a>
+</p>
 ---
 
 ## 🚀 Featured Projects
