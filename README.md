@@ -41,15 +41,7 @@ interested in building practical AI/ML solutions for real-world problems.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
-<p>📧 <strong>Email:</strong>
-<a href="mailto:missruby2503@gmail.com">missruby2503@gmail.com</a>
-</p>
 
-<p>🐙 <strong>GitHub:</strong>
-<a href="https://github.com/Shraddha-2-coder" target="_blank">
-@Shraddha-2-coder
-</a>
-</p>
 ---
 
 ## 🚀 Featured Projects
@@ -83,17 +75,6 @@ Python • Pandas • NumPy • Data Cleaning • Data Visualization
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🏆 Achievements
 
@@ -122,8 +103,15 @@ Advanced AI/ML Projects
 🤝 Let's Connect
 I'm always interested in connecting with fellow developers, students, researchers, and people working on interesting technology projects.
 
-- 📧 **Email:** [missruby2503@gmail.com](mailto:missruby2503@gmail.com)
-- 🐙 **GitHub:** [@Shraddha-2-coder](https://github.com/Shraddha-2-coder)
+<p>📧 <strong>Email:</strong>
+<a href="mailto:missruby2503@gmail.com">missruby2503@gmail.com</a>
+</p>
+
+<p>🐙 <strong>GitHub:</strong>
+<a href="https://github.com/Shraddha-2-coder" target="_blank">
+@Shraddha-2-coder
+</a>
+</p>
 
 ⭐ Thanks for visiting my profile!
 Learning → Building → Experimenting → Improving
