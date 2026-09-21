@@ -87,7 +87,7 @@ Python • Pandas • NumPy • Data Cleaning • Data Visualization
 
 ## 📚 Currently Learning
 
-```text
+
 Python
   ↓
 NumPy + Pandas
@@ -100,10 +100,11 @@ Deep Learning
   ↓
 Advanced AI/ML Projects
 
+
 🤝 Let's Connect
 I'm always interested in connecting with fellow developers, students, researchers, and people working on interesting technology projects.
 
-<p>📧 <strong>Email:</strong>
+<p> <strong>Email:</strong>
 <a href="mailto:missruby2503@gmail.com">missruby2503@gmail.com</a>
 </p>
 
