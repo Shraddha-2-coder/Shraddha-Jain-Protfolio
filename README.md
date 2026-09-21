@@ -110,3 +110,11 @@ Machine Learning
 Deep Learning
   ↓
 Advanced AI/ML Projects
+
+🤝 Let's Connect
+I'm always interested in connecting with fellow developers, students, researchers, and people working on interesting technology projects.
+
+📧 Email: missruby2503@gmail.com
+🐙 GitHub: Shraddha-2-coder
+
+
